@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CommandUIBindings.cs](./CS/RichEditCommandExample/CommandUIBindings.cs) (VB: [CommandUIBindings.vb](./VB/RichEditCommandExample/CommandUIBindings.vb))
+* [Form1.cs](./CS/RichEditCommandExample/Form1.cs) (VB: [Form1.vb](./VB/RichEditCommandExample/Form1.vb))
+<!-- default file list end -->
 # How to bind RichEdit commands to buttons, check boxes and other UI elements
 
 
